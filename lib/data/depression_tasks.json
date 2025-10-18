@@ -1,0 +1,249 @@
+{
+    "days": [
+      { "day": 1, "tasks": [
+        "Drink a glass of water right after waking up.",
+        "Take 5 deep breaths in and out.",
+        "Go outside for 10 minutes to get some fresh air",
+        "Listen to your favorite song and feel its atmosphere.",
+        "Smile at yourself in the mirror for 30 seconds.",  
+        "Write down 3 things you are grateful for today (you can use Notes)."
+
+      ]},
+      { "day": 2, "tasks": [
+        "Do a light stretch or exercise for 5 minutes (any exercise you like).",
+        "Write down 3 small pleasant things you will do today",
+        "Take a 15-minute walk without your phone",
+        "Call or text someone you haven’t spoken to in a while.",
+        "Buy your favorite ice cream.",
+        "Before bed, recall 1 pleasant moment from the day."
+
+      ]},
+      { "day": 3, "tasks": [
+        "Prepare yourself a tasty breakfast.",
+        "Walk a new route, even if it’s just for 5–10 minutes.",
+        "Look at the sky and describe 3 details you notice.",
+        "Write down one negative thought and rewrite it in a softer, more positive form.",
+        "Turn off social media for 1 hour",
+        "Before bed, listen to relaxing music or your favorite playlist."
+      ]}
+      ,
+      { "day": 4, "tasks": [
+        "Make your bed right after waking up.",
+        "Do 10–15 minutes of light physical activity (any exercise you like from the app).",
+        "Sit quietly for 3 minutes and focus only on your breathing.",
+        "Take a 20-minute walk without your phone and fully enjoy the moment.",
+        "Compliment someone, in person or by message (even a small compliment counts).",
+        "Write down one small thing you are looking forward to tomorrow (use Notes)."
+      ]}
+      ,
+      { "day": 5, "tasks": [
+        "Write a short list of 5 things you like about yourself (use Notes).",
+        "Eat one healthy snack today (fruit, nuts, etc.).",
+        "Spend 10 minutes cleaning or organizing a small space.",
+        "Send a kind message to someone you appreciate",
+        "Draw or doodle something, even if you “can’t draw” (you can use Paint or draw on anything — just draw).",
+        "Recall 2 moments from your life that made you laugh."
+      ]},
+      { "day": 6, "tasks": [
+        "Drink water instead of sugary drinks for the whole day.",
+        "Go for a 20-minute walk.",
+        "Try to notice 5 new things around you today.",
+        "Read a few pages from a book or article you enjoy (I recommend Martin Eden)",
+        "Stretch your body before bedtime (any exercise from the app works)",
+        "Write down one thing you learned today (use Notes)."
+      ]},
+      { "day": 7, "tasks": [
+        "Limit phone usage for 2 hours straight.",
+        "Spend 15 minutes outside in nature or observing nature.",
+        "Smile at 3 people today.",
+        "Listen to an inspiring podcast or TED Talk (YouTube is fine, but remember your goal).",
+        "List 3 personal strengths you have (use Notes).",
+        "Write down a small goal for the week ahead (use Notes)."
+      ]},
+      { "day": 8, "tasks": [
+        "Spend 5 minutes doing deep breathing.",
+        "Make a list of 3 people who make you feel good (use Notes).",
+        "Try a new food or recipe (I recommend Carbonara)",
+        "Give yourself permission to rest without guilt for 15 minutes.",
+        "Write a short note of encouragement to your future self (use Notes).",
+        "Before bed, write down 1 thing that went well today (use Notes)."
+      ]},
+      { "day": 9, "tasks": [
+        "Stand outside and notice the smells, sounds, and temperature for 3 minutes.",
+        "Write down 5 activities you’d like to try someday (use Notes).",
+        "Buy yourself a pizza — you deserve it.",
+        "Walk for 25 minutes at a comfortable pace.",
+        "Write down 1 challenge you overcame in the past (use Notes).",
+        "Meditate for 5 minutes before bed (think about something positive, for example: what you can look forward to)."
+      ]},
+      { "day": 10, "tasks": [
+        "Make a playlist of uplifting songs (or find someone else’s playlist).",
+        "Prepare and eat a colorful meal (e.g., make a salad or wrap with colorful vegetables, or cook pasta with mixed vegetables).",
+        "Limit social media to 30 minutes today (you can use the ScreenZen app — I use it too).",
+        "Draw, color, or do something creative for 10 minutes.",
+        "Read about a person who inspires you (can be anyone).",
+        "Write down 3 reasons you are proud of yourself (use Notes)."
+      ]},
+      { "day": 11, "tasks": [
+        "Wake up 15 minutes earlier than usual",
+        "Spend 15 minutes tidying up your home.",
+        "Do 10 squats or a short workout.",
+        "Compliment yourself out loud.",
+        "Send a “thank you” message to someone.",
+        "Spend 5 minutes focusing on your breathing."
+      ]},
+      { "day": 12, "tasks": [
+        "Write down 3 things you’ve improved at over the past year.",
+        "Drink 8 glasses of water today.",
+        "Go for a walk in a place you’ve never been before.",
+        "Read something educational for 30 minutes.",
+        "Write a letter (you don’t have to send it) to someone who hurt you, expressing your feelings.",
+        "Before bed, think of 3 things you’re looking forward to."
+      ]},
+      { "day": 13, "tasks": [
+        "Try a 10-minute guided meditation.",
+        "Make a to-do list for tomorrow.",
+        "Limit phone usage for 3 hours straight.",
+        "Eat a meal slowly, focusing on the taste and texture.",
+        "Do something nice for a stranger.",
+        "Reflect on one lesson you’ve learned from a difficult time"
+      ]},
+      { "day": 14, "tasks": [
+        "Write down 3 goals for the next month.",
+        "Go outside for 20 minutes without headphones or phone.",
+        "Stretch your whole body for 10 minutes.",
+        "Make a gratitude list for someone specific in your life.",
+        "Organize a drawer or shelf.",
+        "Listen to calming music before bed."
+      ]},
+      { "day": 15, "tasks": [
+        "Write down 3 things you like about your personality.",
+        "Spend 30 minutes walking outdoors.",
+        "Cook yourself a healthy lunch or dinner.",
+        "Write a short letter of gratitude to yourself.",
+        "Call a friend/family member just to talk.",
+        "Meditate or breathe deeply for 10 minutes."
+      ]},
+      { "day": 16, "tasks": [
+        "Write down 3 biggest stressors and 3 possible solutions.",
+        "Try 20 minutes of physical exercise (jogging, cycling, yoga, etc.).",
+        "Limit screen time for 4 hours today.",
+        "Do something playful (draw, dance, sing, play a game).",
+        "Listen to a motivational podcast.",
+        "Write 1 action you will take tomorrow for your mental health."
+      ]},
+      { "day": 17, "tasks": [
+        "List 5 qualities you admire in others and see which you already have.",
+        "Spend 10 minutes journaling your feelings without censorship.",
+        "Walk in silence for 20 minutes.",
+        "Smile at 5 strangers today.",
+        "Choose 1 small fear and face it (e.g., talk to a new person, try something new).",
+        "Before bed, write 1 thing you forgave yourself for today."
+      ]},
+      { "day": 18, "tasks": [
+        "Write down 3 negative beliefs you often have, and reframe them.",
+        "Exercise for 25 minutes.",
+        "Spend 15 minutes doing a creative hobby.",
+        "Declutter one small area (desk, drawer, bag).",
+        "Send a message of encouragement to someone.",
+        "Write down 3 things you want to achieve this year."
+      ]},
+      { "day": 19, "tasks": [
+        "Start your day with 5 minutes of mindfulness meditation.",
+        "Eat a healthy breakfast.",
+        "Take a walk in nature (30 min).",
+        "Limit phone use for 5 hours.",
+        "Journal about “What would my happiest self look like?”",
+        "Watch a movie/series that makes you laugh or feel inspired"
+      ]},
+      { "day": 20, "tasks": [
+        "Write down your 5 proudest life moments.",
+        "Do 30 minutes of physical exercise.",
+        "Call someone and tell them something positive.",
+        "Write 3 reasons life is worth living.",
+        "Do an activity outside your comfort zone.",
+        "Meditate before bed for 15 minutes."
+      ]},
+      { "day": 21, "tasks": [
+        "Write a list of your achievements (even small ones).",
+        "Walk for 35 minutes.",
+        "Eat one meal mindfully (without phone/TV).",
+        "Write a letter of forgiveness (to yourself or someone else).",
+        "Spend 30 minutes doing something creative.",
+        "Reflect: “How do I want my life to look in 1 year?”"
+      ]},
+      { "day": 22, "tasks": [
+        "Write down 3 things you’re grateful for from the past week.",
+        "Exercise for 35 minutes.",
+        "Do one act of kindness today.",
+        "Spend 1 hour learning something new (language, skill).",
+        "Write a list of 10 things that give you joy.",
+        "Meditate for 15 minutes before bed."
+      ]},
+      { "day": 23, "tasks": [
+        "Journal: “What do I fear most and why?”",
+        "Walk outdoors for 40 minutes.",
+        "Try a new recipe or food.",
+        "Talk with someone about your feelings.",
+        "Do a digital detox for 3 hours.",
+        "Write 3 small goals for the next week."
+      ]},
+      { "day": 24, "tasks": [
+        "Write down your strengths and how you use them.",
+        "Do 40 minutes of physical exercise.",
+        "Make a vision board (digital or paper) of things you want.",
+        "Share something uplifting on social media.",
+        "Read 20 minutes of a book.",
+        "Journal about: “Who do I want to become?”"
+      ]},
+      { "day": 25, "tasks": [
+        "Write 3 affirmations and repeat them during the day.",
+        "Walk 40 minutes focusing on surroundings.",
+        "Practice 10 minutes of deep breathing.",
+        "Write down 1 thing you’re letting go of.",
+        "Spend time with someone supportive.",
+        "Reflect: “What progress have I made this month?”"
+      ]},
+      { "day": 26, "tasks": [
+        "Write a letter to your “future happy self.”",
+        "Exercise for 45 minutes.",
+        "Cook and eat something healthy.",
+        "Write down 5 reasons you are strong",
+        "Do something creative for 20 minutes.",
+        "Meditate for 20 minutes."
+      ]},
+      { "day": 27, "tasks": [
+        "Journal: “What does happiness mean to me?”",
+        "Take a 45-minute walk.",
+        "Do something social (meet, call, chat).",
+        "Write 3 goals for the next month.",
+        "Create a playlist that makes you feel alive",
+        "Before bed, list 3 reasons you’re grateful for life."
+      ]},
+      { "day": 28, "tasks": [
+        "Write 5 small victories from this week.",
+        "Exercise for 50 minutes.",
+        "Try something new (new place, activity).",
+        "Spend 1 hour without technology.",
+        "Do something kind for yourself (self-care).",
+        "Reflect: “What did I learn about myself this month?”"
+      ]},
+      { "day": 29, "tasks": [
+        "Write 3 ways you can help others.",
+        "Take a long nature walk (50 minutes).",
+        "Meditate or do yoga for 20 minutes",
+        "Write 3 reasons why you are worthy of love",
+        "Spend time with someone who makes you laugh.",
+        "Journal: “What does my ideal life look like in 5 years?”"
+      ]},
+      { "day": 30, "tasks": [
+        "Write down 10 things you’re grateful for",
+        "Exercise for 1 hour (any kind you enjoy)",
+        "Do one act of kindness today.",
+        "Write a letter of love and encouragement to yourself.",
+        "Reflect on your 30-day journey and note the progress.",
+        "Make a plan for continuing these habits in the next 30 days."
+      ]}
+    ]
+  }
+  
